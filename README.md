@@ -137,10 +137,11 @@ This project was developed as part of the:
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Hamza Asif**
-- GitHub: [hamza93-ai](https://github.com/hamza93-ai)
-- LinkedIn: [linkedin.com/in/hamza-asif-b84523325](https://linkedin.com/in/hamza-asif-b84523325)
+**Hamza Asif**  
+BS Artificial Intelligence — DUET, Karachi  
+[![GitHub](https://img.shields.io/badge/GitHub-Hamza--Asif--ai-black?style=flat-square&logo=github)](https://github.com/Hamza-Asif-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Asif-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/hamzaasif-ai)
 
 ---
